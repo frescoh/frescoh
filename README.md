@@ -1,6 +1,9 @@
 # Hello, my name is Hernán Fresco
-### College student in the [UNSa](https://exactas.unsa.edu.ar/carreras/info/2)
+### College student in the [UNSa](https://exactas.unsa.edu.ar/)
 - Programming student.
+  - [Stage one](https://exactas.unsa.edu.ar/carreras/info/2)
+  - [Stage two](https://exactas.unsa.edu.ar/carreras/info/1)
+
 
 ### 🌱 I’m currently learning
 - Java in [Mil programadores salteños](http://milprogramadores.unsa.edu.ar/index.php/mil-programadores/)
@@ -10,6 +13,9 @@
 ### 🤔 I’m looking for help with
 - ☕ Java proyects, or
 - 🐍 Python proyects
+
+### 🔭 I’m currently working on ...
+  🔎 I'm looking for my first job in the Programming area 
 
 ### 👨🏻‍💻 I know about
 - 🐍 Python
@@ -24,6 +30,8 @@
 - The sea
 - My family
 
+### 📫 How to reach me:
+- email: fresco.ar(at)gmail.com
 
 <!--
 **FrescoHAr/frescohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

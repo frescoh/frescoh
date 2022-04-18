@@ -36,7 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frescohar&layout=compact)](https://github.com/FrescoHAr?tab=repositories)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frescohar&show_icons=true&theme=radical)](https://github.com/FrescoHAr?tab=repositories)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frescohar&show_icons=true&theme=compact)](https://github.com/FrescoHAr?tab=repositories)
 
 <!--
 **FrescoHAr/frescohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

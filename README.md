@@ -1,4 +1,4 @@
-# Hello, my name is Hernán Fresco  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=frescohar">
+# Hello, my name is Hernán Fresco  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=frescoh-ar">
 ### College student in the [UNSa](https://exactas.unsa.edu.ar/)
 - Programming student.
   - [Stage one](https://exactas.unsa.edu.ar/carreras/info/2)
@@ -32,16 +32,16 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frescohar&layout=default)](https://github.com/FrescoHAr?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frescoh-ar&layout=default)](https://github.com/frescoh-ar?tab=repositories)
 </a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frescohar&show_icons=true&theme=highcontrast)](https://github.com/FrescoHAr?tab=repositories)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frescoh-ar&show_icons=true&theme=highcontrast)](https://github.com/frescoh-ar?tab=repositories)
 <a/>
 
 ### 📫 How to reach me:
 - email: fresco.ar(at)gmail.com
 
 <!--
-**FrescoHAr/frescohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**frescoh-ar/frescoh-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

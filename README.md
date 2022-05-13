@@ -19,10 +19,13 @@
 
 ### 👨🏻‍💻 I know about
 - 🐍 Python
+- Qt
 - ☕ Java
 - C
 - Android Studio (in process)
 - Mysql
+- HTML5
+- CSS
 
 ### ♥ I love
 - Pets

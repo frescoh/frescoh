@@ -1,31 +1,18 @@
 # Hello, my name is Hernán Fresco  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=frescoh">
-### College student in the [UNSa](https://exactas.unsa.edu.ar/)
-- Programming student.
+### I trained in the [UNSa](https://exactas.unsa.edu.ar/)
+- University Technician in Programming.
   - [Stage one](https://exactas.unsa.edu.ar/carreras/info/2)
   - [Stage two](https://exactas.unsa.edu.ar/carreras/info/1)
 
+### Djando developer
 
-### 🌱 I’m currently learning
-- Java in [Mil programadores salteños](http://milprogramadores.unsa.edu.ar/index.php/mil-programadores/)
-- Android Studio in [UNSa](https://exactas.unsa.edu.ar/carreras/info/2)
-- Python in [UNSa](https://exactas.unsa.edu.ar/carreras/info/2)
 
-### 🤔 I’m looking for help with
-- ☕ Java proyects, or
-- 🐍 Python proyects
 
 ### 🔭 I’m currently working on ...
-  🔎 I'm looking for my first job in the Programming area 
+  - I teach python in "Introduccion a la programacion con python". This is a program of argentinian national government...
+  - I teach Database management systems in the secondary school.
+  - I'm freelancer Django developer.
 
-### 👨🏻‍💻 I know about
-- 🐍 Python
-- Qt
-- ☕ Java
-- C
-- Android Studio (in process)
-- Mysql
-- HTML5
-- CSS
 
 ### ♥ I love
 - Pets

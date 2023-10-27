@@ -17,10 +17,6 @@
 - My family
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frescoh&layout=default)](https://github.com/frescoh?tab=repositories)
-</a>
-
 ### 📫 How to reach me:
 - email: fresco.ar(at)gmail.com 
 - <a href = "https://frescoh.ar" target="_blank" rel="noreferrer noopener">MyPortfolio</a>

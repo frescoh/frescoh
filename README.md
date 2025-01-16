@@ -1,23 +1,49 @@
-# Hello, my name is Hernán Fresco  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=frescoh">
-### I trained on  [Universidad Nacional de Salta](https://exactas.unsa.edu.ar/) and [Universidad Tecnológica Nacional's Facultad Regional Tucumán](http://frt.utn.edu.ar/).
+# Hernán Fresco <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=frescoh">  
+### Django Developer | Passionate Technology Educator  
 
-### Djando developer
-### Teacher of Database management systems on [Colegio de la Divina Misericordia](https://pabloapereyra72.wixsite.com/cdmsalta)
+🎓 Trained at [National University of Salta](https://exactas.unsa.edu.ar/) and [UTN - Regional Faculty Tucumán](http://frt.utn.edu.ar/).  
 
+---
 
-### 🔭 I worked on ... 
-- Python Teacher in "Introducción a la programacion con Python". This was a program of argentinian national government... 
-- Django freelance developer.
+## 🛠️ Core Technologies  
+- **Languages**: Python, Java, SQL  
+- **Frameworks**: Django  
+- **Databases**: PostgreSQL, SQLite  
+- **Version Control**: Git, GitHub  
+- **Front-End**: HTML, CSS  
 
+---
 
-### ♥ I love
-- Pets
-- Nature
-- sea
-- My family
+## 🌟 Highlighted Experience  
+### Educational Projects  
+- **High School**  
+  - Subjects: Imperative Programming, Database Management Systems, Data Processing Systems.  
+  - Achievements: Senior-year students developed complete web applications with local and remote repository management.  
 
+- **UPATecO (University Level)**  
+  - Subject: Introduction to Programming with Python.  
+  - Achievements: Managed a cohort of 700 students who advanced from beginner level to building applications with persistent files and Tkinter-based graphical interfaces.  
 
-### 📫 How to reach me:
-- email: fresco.ar(at)gmail.com 
-- <a href = "https://frescoh.dev" target="_blank">MyPortfolio</a>
+- **Online Bootcamps**  
+  - Subject: Zero-to-hero Programming with Python.  
+  - Achievements: Groups of 200 students successfully developed functional and complete applications.  
 
+### Software Development  
+- Freelance Backend Developer with Django, delivering robust and scalable applications.  
+
+---
+
+## 🎯 Professional Purpose  
+To continuously learn and grow while leveraging my expertise to efficiently and effectively tackle projects, adhering to industry best practices.  
+
+---
+
+## 🏅 Certifications  
+- Django Course - AIkemy  
+- Soft Skills Certification - Communication  
+
+---
+
+## 📫 Contact Me  
+- 📧 Email: fresco.ar(at)gmail.com  
+- 🌐 [My Portfolio](https://frescoh.dev)  

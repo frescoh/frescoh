@@ -19,5 +19,5 @@
 
 ### 📫 How to reach me:
 - email: fresco.ar(at)gmail.com 
-- <a href = "https://frescoh.ar" target="_blank" rel="noreferrer noopener">MyPortfolio</a>
+- <a href = "https://frescoh.dev" target="_blank">MyPortfolio</a>
 

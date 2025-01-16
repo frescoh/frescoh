@@ -39,7 +39,7 @@ To continuously learn and grow while leveraging my expertise to efficiently and 
 ---
 
 ## 🏅 Certifications  
-- Django Course - AIkemy  
+- Django Course - [Alkemy](https://www.alkemy.org/)  
 - Soft Skills Certification - Communication  
 
 ---
